@@ -4,6 +4,8 @@
 
 **An air traffic control visualization with real-time aircraft tracking and collision detection.**
 
+![MyRadar showing aircraft, radar towers and coverage zones](docs/screenshots/radar.png)
+
 </div>
 
 ---
